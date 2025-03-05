@@ -14,7 +14,7 @@ The goal of **ATS Resume Expert** is to help job seekers optimize their resumes 
 
 ## 🚀 Preview
 
-![Application Preview](https://i.imgur.com/JjiSML3.png)
+![Application Preview](https://github.com/shashikantkaushik/resume_ats_system_genai/blob/master/img.png?raw=true)
 
 ---
 
